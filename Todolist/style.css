@@ -1,0 +1,36 @@
+.box{
+    padding: 20px;
+    border: solid;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    border-radius: 2px;
+    
+}
+.but1{
+    margin-left: 80%;
+    margin-top: 2%;
+
+}
+.col1{
+    background-color: blue;
+}
+.col2{
+    background-color: red;
+}
+.col3{
+    background-color: lightgreen;
+}
+table,td,th{
+    border: 1px solid;
+    padding: 20px;
+    border-collapse: collapse;
+    margin-top: 20px;
+    text-align: left;
+}
+.well{
+    width: 25%;
+}
+.col4{
+    background-color:green;
+}
